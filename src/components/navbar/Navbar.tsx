@@ -31,6 +31,14 @@ export const Navbar = () => {
     setIsMenuOpen(false);
   };
 
+  const scrollToSection = (id: string) => {
+    setIsMenuOpen(false);
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   return (
     <AppBar position="static" color="default" elevation={1}>
       <Container maxWidth="lg">
@@ -44,21 +52,23 @@ export const Navbar = () => {
             <div>
               <Button
                 component="a"
-                href="#nosotros"
+                // href="#nosotros"
                 sx={{ color: "text.secondary" }}
+                onClick={() => scrollToSection("nosotros")}
               >
                 Nosotros
               </Button>
               <Button
                 component="a"
-                href="#contacto"
+                // href="#contacto"
                 sx={{ color: "text.secondary" }}
+                onClick={() => scrollToSection("contacto")}
               >
                 Contacto
               </Button>
               <Button
-                component="a"
-                href="/login"
+                component={Link}
+                to="/login"
                 sx={{ color: "text.secondary" }}
               >
                 Iniciar Sesion
@@ -82,19 +92,23 @@ export const Navbar = () => {
           <List>
             <ListItemButton
               component="a"
-              href="#nosotros"
-              onClick={handleCloseMenu}
+              // href="#nosotros"
+              // onClick={handleCloseMenu}
+              onClick={() => scrollToSection("nosotros")}
             >
               <ListItemText primary="Nosotros" />
             </ListItemButton>
             <ListItemButton
               component="a"
-              href="#contacto"
-              onClick={handleCloseMenu}
-            ></ListItemButton>
+              // href="#contacto"
+              // onClick={handleCloseMenu}
+              onClick={() => scrollToSection("contacto")}
+            >
+              <ListItemText primary="Contacto" />
+            </ListItemButton>
             <ListItemButton
-              component="a"
-              href="/login"
+              component={Link}
+              to="/login"
               onClick={handleCloseMenu}
             >
               <ListItemText primary="Iniciar Sesion" />
