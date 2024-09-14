@@ -1,5 +1,5 @@
-import { Container, Typography, Box, Grid, Paper, Button } from "@mui/material";
-import { Navbar } from "../navbar/Navbar";
+import { Container, Typography, Box, Grid, Button } from "@mui/material";
+import { Navbar } from "../../components/navbar/Navbar";
 
 const Home = () => {
   return (

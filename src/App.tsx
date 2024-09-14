@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { LoginForm } from "./login/LoginForm";
+import { LoginForm } from "./screen/login/LoginForm";
 import "./App.css";
-import Home from "./home/Home";
+import Home from "./screen/home/Home";
 
 interface AppProps {
   toggleTheme: () => void;

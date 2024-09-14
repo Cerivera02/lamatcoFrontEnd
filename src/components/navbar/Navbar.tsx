@@ -16,12 +16,12 @@ import {
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
-import { Link } from "react-router-dom"; // Ajusta esta importación si estás usando Next.js o React Router
+import { Link } from "react-router-dom";
 
 export const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down("md")); // Ajusta el punto de quiebre según tus necesidades
+  const isMobile = useMediaQuery(theme.breakpoints.down("md"));
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
@@ -56,6 +56,13 @@ export const Navbar = () => {
               >
                 Contacto
               </Button>
+              <Button
+                component="a"
+                href="/login"
+                sx={{ color: "text.secondary" }}
+              >
+                Iniciar Sesion
+              </Button>
             </div>
           )}
           {isMobile && (
@@ -84,8 +91,13 @@ export const Navbar = () => {
               component="a"
               href="#contacto"
               onClick={handleCloseMenu}
+            ></ListItemButton>
+            <ListItemButton
+              component="a"
+              href="/login"
+              onClick={handleCloseMenu}
             >
-              <ListItemText primary="Contacto" />
+              <ListItemText primary="Iniciar Sesion" />
             </ListItemButton>
           </List>
           <Divider />
