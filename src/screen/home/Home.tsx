@@ -12,118 +12,14 @@ const Home = () => {
           </Typography>
           <Typography variant="h5" component="h2" gutterBottom>
             Aquí encontrarás información sobre nosotros y cómo contactarnos.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
+            Lorem ipsum dolor sit amet colnsectetur adipisicing elit. Corrupti
             odio, nam sapiente ea sit nisi vero doloribus, labore voluptatibus
             laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
             consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
             cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!Aquí encontrarás información sobre nosotros y
-            cómo contactarnos. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Corrupti odio, nam sapiente ea sit nisi vero
-            doloribus, labore voluptatibus laudantium magnam placeat nulla,
-            ullam qui deserunt repudiandae ut consequuntur? Quaerat!Aquí
-            encontrarás información sobre nosotros y cómo contactarnos. Lorem
-            ipsum dolor sit amet consectetur adipisicing elit. Corrupti odio,
-            nam sapiente ea sit nisi vero doloribus, labore voluptatibus
-            laudantium magnam placeat nulla, ullam qui deserunt repudiandae ut
-            consequuntur? Quaerat!
+            adipisicing elit. Alias obcaecati blanditiis error sed, eveniet quod
+            a optio qui ea eaque voluptas inventore expedita vitae nisi numquam
+            officia consequatur quaerat rerum?
           </Typography>
         </Box>
 
@@ -140,6 +36,15 @@ const Home = () => {
             Saber Más
           </Button>
         </Grid>
+
+        <Box sx={{ py: 4 }}>
+          <Typography variant="h5" component="h3" gutterBottom>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt
+            non ullam perspiciatis qui ratione laborum repellendus officiis,
+            cupiditate deleniti sit iure voluptatibus commodi, blanditiis
+            eveniet nulla corrupti beatae corporis deserunt?
+          </Typography>
+        </Box>
 
         <Grid item xs={12} md={6} id="contacto">
           <Typography variant="h4" component="h2" gutterBottom>

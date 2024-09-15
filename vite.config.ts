@@ -5,4 +5,5 @@ import react from "@vitejs/plugin-react-swc";
 export default defineConfig({
   plugins: [react()],
   // base: "https://Cerivera02.github.io/lamatcoForntEnd",
+  base: "/lamatcoFrontEnd/",
 });
