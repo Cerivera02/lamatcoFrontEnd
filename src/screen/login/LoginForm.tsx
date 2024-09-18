@@ -12,6 +12,7 @@ import { Formik, Form, Field } from "formik";
 import LightModeIcon from "@mui/icons-material/LightMode";
 import DarkModeIcon from "@mui/icons-material/DarkMode";
 import { useNavigate } from "react-router-dom";
+import { loginRequest } from "../../api/auth";
 
 interface LoginFormProps {
   toggleTheme: () => void;
@@ -98,9 +99,13 @@ export const LoginForm = (props: LoginFormProps) => {
                 <Grid item xs={12}>
                   <Formik
                     initialValues={{ email: "", password: "" }}
-                    onSubmit={(values) => {
-                      // Manejar envío de formulario
+                    onSubmit={async (values) => {
                       console.log(values);
+                      const res = await loginRequest(values);
+                      if (res.status === 200) {
+                        navigate("/admin");
+                      }
+                      console.log(res);
                     }}
                   >
                     {() => (

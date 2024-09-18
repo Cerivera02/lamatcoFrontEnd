@@ -7,15 +7,15 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@mui/icons-material": "^6.1.0",
     "@mui/material": "^6.1.0",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
     "formik": "^2.4.6",
     "lamatcofrontend": "file:",
     "react": "^18.3.1",
